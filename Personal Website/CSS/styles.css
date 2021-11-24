@@ -1,0 +1,65 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+}
+
+h1 {
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+}
+
+.Header-Intro {
+    background-color: #D7FBE8;
+    position: relative;
+    padding-top: 100px;
+}
+
+.Bottom-cloud {
+    position: absolute;
+    left: 300px;
+    top: 250px;
+}
+
+.Top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 150px;
+}
+
+.table {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+td {
+    padding: 30px;
+}
+
+.bottom-container{
+
+}
+
+.middle-container{
+
+}
+
+.Web-Dev-Icon {
+    height: 120px
+}
+
+.App-Dev-Icon{
+    height: 120px;
+}
+
+.ProfilePic {
+    height: 150px
+}
