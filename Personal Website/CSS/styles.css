@@ -63,3 +63,11 @@ td {
 .ProfilePic {
     height: 150px
 }
+
+.seperator {
+    border-style: dotted none none none;
+    height: 0px;
+    width: 10%;
+    border-width: 5px;
+    border-color: #769FCD;
+}
